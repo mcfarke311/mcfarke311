@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:4.0
+KIND:individual
+N:McFarland;Kevin;;;
+FN:Kevin McFarland
+ROLE:Software Engineer
+TITLE:Senior Software Development Engineer in Test
+ORG:Apple Inc
+GENDER:M
+LANG:en-US
+TEL;TYPE=CELL,VOICE:(864) 559-9203
+EMAIL;TYPE=INTERNET:kevin@mc-farland.com
+URL:kevin.mc-farland.com
+TZ:America/Chicago
+ADR;TYPE=WORK:;;;Austin, Texas, 78748
+GEO:geo:30.267,-97.743
+REV:20260528T021320Z
+END:VCARD
